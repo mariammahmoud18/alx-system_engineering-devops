@@ -1,2 +1,3 @@
 #!/bin/bash
 whoami 
+Chmod u+x 1-who_am_i
