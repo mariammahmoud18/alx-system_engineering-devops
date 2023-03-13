@@ -1,0 +1,2 @@
+#!/bin/bash
+ls 0x02-shell_redirections | tail -10 | sort
